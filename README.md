@@ -5,6 +5,3 @@ Salesforce repository Test
 adding some modified text cause the first one was wrong
 
 #New developer adding some code
-
-adding a new comment as part of new pull request
-added.
